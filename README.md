@@ -84,7 +84,7 @@ The dataset contains the following key columns:
 
 **Dashboard Screenshots**
 
-
+https://github.com/Riya8010/Retail-Sales-Performance-Dashboard-for-Blinkit-/blob/main/Retail%20Sales%20Performance%20Dashboard%20for%20Blinkit%20Snapshot.png
 
 **How to Use**
 
